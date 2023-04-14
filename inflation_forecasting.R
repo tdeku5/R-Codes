@@ -1,3 +1,8 @@
+# Time series models for forecasting annual & monthly Headline CPI
+# Will be updated in the near future
+# Currently am working on expanding this by breaking CPI into components and evaluating at a more granular level
+# and expanding the analysis into PCE and other economic data
+
 # Annual Inflation Forecasting
 
 # AR(1) model for annual inflation
